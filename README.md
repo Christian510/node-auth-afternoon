@@ -1,3 +1,8 @@
+
+## Completed Black Diamond section
+* After initializing this app you will need to run npx babel --watch src --out-dir . --presets react-app/prod 
+if you want to make any changes to App.js.  Then, replace the App.js in the src directory.
+
 <img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
 
 # Project Summary
